@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kuti-dev": {
+      "hosting": {
+        "kuti.dev": [
+          "kuti-dev"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kuti-dev"
+  }
+}
